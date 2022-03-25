@@ -8,7 +8,7 @@
         {
             "displayName": "Sample",
             "description": "Sample",
-            "path": "Samples"
+            "path": "Samples~"
         }
     ],
     "dependencies": {
