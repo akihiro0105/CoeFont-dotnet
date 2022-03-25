@@ -1,0 +1,17 @@
+{
+    "name": "com.akihiro.coefont-dotnet",
+    "version": "1.0.0",
+    "displayName": "com.akihiro.coefont-dotnet",
+    "description": "com.akihiro.coefont-dotnet",
+    "unity": "2020.3",
+    "samples": [
+        {
+            "displayName": "Sample",
+            "description": "Sample",
+            "path": "Samples"
+        }
+    ],
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.1"
+    }
+}
